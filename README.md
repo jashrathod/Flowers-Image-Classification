@@ -60,4 +60,14 @@ Results obtained after applying GradCAM are stored in folders [cam_V1](cam_V1) a
 
 For an observation of class 2 which was predicted incorrectly for the simpler model ([Flowers_ResNet18_V1.ipynb](Flowers_ResNet18_V1.ipynb)) and correctly for the improved model ([Flowers_ResNet18_V2.ipynb](Flowers_ResNet18_V2.ipynb)), we can see the GradCAM results below:
 
+![alt](temp/fig.png)
 
+## References
+
+1. Problem Statement by [Fellowship.ai](https://www.fellowship.ai)
+2. Dataset: https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html
+3. Data Augmentation: https://discuss.pytorch.org/t/data-augmentation-in-pytorch/7925
+4. Transfer Learning: https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
+5. ResNet18: https://medium.com/@josh_2774/deep-learning-with-pytorch-9574e74d17ad
+6. Labels: https://gist.github.com/JosephKJ/94c7728ed1a8e0cd87fe6a029769cde1#file-oxford-102_flower_dataset_labels-txt
+7. GradCAM: https://github.com/Caoliangjie/pytorch-gradcam-resnet50/blob/master/grad-cam.py
