@@ -62,6 +62,18 @@ For an observation of class 2 which was predicted incorrectly for the simpler mo
 
 ![alt](temp/fig.png)
 
+## Future Work
+
+This work has shown great potential for a number of use cases. Some avenues to pursue ahead can be:
+
+1. **Data**
+   -  Gathering more images for each flower type. This will increase training data and can lead to a better model.
+   -  Using Generative Adversarial Network (GAN) variants like Data Augmentation GAN (DAGAN) for generating synthetic training data.
+2. **Deep Learning Models**
+   -  Making use of models like ResNet152, VGGNet, etc and compare the results.
+3. **Interpretability**
+   -  Using approaches like Local Interpretable Model-agnostic Explanations (LIME) and Layer-wise Relevant Propagation (LRP) for interpreting the models.
+
 ## References
 
 1. Problem Statement by [Fellowship.ai](https://www.fellowship.ai)
