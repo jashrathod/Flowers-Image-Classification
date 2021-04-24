@@ -51,7 +51,7 @@ Accuracy for V2 =  0.8159778965354642
 
 As observed in both [Flowers_ResNet18_V1.ipynb](Flowers_ResNet18_V1.ipynb) and [Flowers_ResNet18_V2.ipynb](Flowers_ResNet18_V2.ipynb), the weakest class is -
 
-Class number = **2**
+Class number = **2**  
 Flower name = Canterbury Bells
 
 ## GradCAM
