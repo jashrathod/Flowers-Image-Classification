@@ -32,7 +32,7 @@ FFClassifier(
      -  Rotation by 45 degrees
      -  Crop from original images and obtain subplots
      -  Horizontal Flip  
-  2. Deeper model (just 1 nn.Linear)
+  2. Deeper model:
 ```python
 FFClassifier(
   (fc1): Linear(in_features=512, out_features=4096, bias=True)
